@@ -2,9 +2,9 @@
 
 ## Anggota Kelompok
 1. Ahmad Alaloul (Maintenance)
-2. Muhammad Fikri Palembang (Kontributor)
-3. Gerald Adinarto (Kontributor)
-4. Afif Ibnu Pratama (Kontributor)
+2. Gerald Adinarto (Kontributor)
+3. Afif Ibnu Pratama (Kontributor)
+4. Muhammad Fikri Palembang (Kontributor)
 5. Sahdila Irwan (Kontributor)
 ---
 ## Deskripsi
