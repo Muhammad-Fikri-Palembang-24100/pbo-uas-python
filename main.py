@@ -80,4 +80,4 @@ while True:
         break
 
     else:
-        print("❌ Pilihan tidak valid")
+        print("❌ Pilihan tidak valid, pilih ulang")
